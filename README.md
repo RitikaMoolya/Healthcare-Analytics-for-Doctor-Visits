@@ -3,7 +3,7 @@
 
 Healthcare utilization can vary significantly across individuals due to differences in demographic characteristics, socioeconomic conditions, health status, illness burden, insurance coverage, and chronic health conditions. However, raw healthcare data does not directly reveal how these factors influence the frequency of doctor visits.
 
-This project performs **Exploratory Data Analysis (EDA), statistical analysis, and data visualization** on a healthcare dataset to investigate variations in doctor visits and identify meaningful patterns, relationships, and differences within the available data.
+This project performs **Exploratory Data Analysis (EDA) and data visualization** on a healthcare dataset to investigate variations in doctor visits and identify meaningful patterns, relationships, and differences within the available data.
 
 The analysis focuses on **doctor visit distribution, demographics, income levels, illness burden, reduced activity, general health status, insurance coverage, and chronic conditions**.
 
